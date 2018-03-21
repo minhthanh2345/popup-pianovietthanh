@@ -1,4 +1,4 @@
-//please contact me vietthan.nguyentrong@gmail.com	
+//please contact me nguyentrong@vietthanhmusic.vn
 //website https://danorrgangiare.blogspot.com/
 
 (function($) {
