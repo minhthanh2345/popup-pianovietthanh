@@ -1,5 +1,5 @@
 //please contact me vietthan.nguyentrong@gmail.com	
-//website https://vietthanhmusic.vn
+//website https://danorrgangiare.blogspot.com/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
